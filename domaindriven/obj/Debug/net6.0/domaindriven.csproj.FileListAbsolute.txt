@@ -1,0 +1,23 @@
+D:/Visual Studio/domaindriven/domaindriven/bin/Debug/net6.0/domaindriven.exe
+D:/Visual Studio/domaindriven/domaindriven/bin/Debug/net6.0/domaindriven.deps.json
+D:/Visual Studio/domaindriven/domaindriven/bin/Debug/net6.0/domaindriven.runtimeconfig.json
+D:/Visual Studio/domaindriven/domaindriven/bin/Debug/net6.0/domaindriven.dll
+D:/Visual Studio/domaindriven/domaindriven/bin/Debug/net6.0/domaindriven.pdb
+D:/Visual Studio/domaindriven/domaindriven/obj/Debug/net6.0/domaindriven.csproj.AssemblyReference.cache
+D:/Visual Studio/domaindriven/domaindriven/obj/Debug/net6.0/domaindriven.GeneratedMSBuildEditorConfig.editorconfig
+D:/Visual Studio/domaindriven/domaindriven/obj/Debug/net6.0/domaindriven.AssemblyInfoInputs.cache
+D:/Visual Studio/domaindriven/domaindriven/obj/Debug/net6.0/domaindriven.AssemblyInfo.cs
+D:/Visual Studio/domaindriven/domaindriven/obj/Debug/net6.0/domaindriven.csproj.CoreCompileInputs.cache
+D:/Visual Studio/domaindriven/domaindriven/obj/Debug/net6.0/domaindriven.dll
+D:/Visual Studio/domaindriven/domaindriven/obj/Debug/net6.0/refint/domaindriven.dll
+D:/Visual Studio/domaindriven/domaindriven/obj/Debug/net6.0/domaindriven.pdb
+D:/Visual Studio/domaindriven/domaindriven/obj/Debug/net6.0/domaindriven.genruntimeconfig.cache
+D:/Visual Studio/domaindriven/domaindriven/obj/Debug/net6.0/ref/domaindriven.dll
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.csproj.AssemblyReference.cache
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.AssemblyInfoInputs.cache
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.AssemblyInfo.cs
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.dll
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/refint/domaindriven.dll
+/home/coder/project/workspace/domaindriven/obj/Debug/net6.0/domaindriven.pdb
